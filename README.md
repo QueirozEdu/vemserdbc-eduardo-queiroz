@@ -1,3 +1,3 @@
 # vemserdbc-eduardo-queiroz
 
-#VemSerDBC-EduardoQueiroz;
+#VemSerDBC-EduardoQueiroz
